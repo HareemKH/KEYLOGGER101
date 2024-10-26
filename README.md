@@ -1,4 +1,6 @@
 #Keystroke Recorder
+
+
 Overview
 The Keystroke Recorder is a simple keylogger implemented in Python, designed to capture and log keystrokes on a target system. It demonstrates basic keystroke recording functionality and includes the capability to send logged data to a remote server for analysis. This project is intended for educational purposes to help understand keylogging techniques and the importance of cybersecurity.
 
