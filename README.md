@@ -1,4 +1,4 @@
-#Keystroke Recorder
+<h1>Keystroke Recorder</h1>
 
 
 Overview
@@ -30,6 +30,7 @@ Misuse of this keylogger can result in legal consequences.
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
 **License**
+Project licensed under **MIT license**
 see the LICENSE file for details.
 
 **Acknowledgments**
